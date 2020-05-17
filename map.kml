@@ -22,6 +22,9 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
+			     <color>ff0000cc</color>
+                <colorMode>random</colorMode>
+			<fill>1</fill>
 				<color>ffe7ebef</color>
 			</PolyStyle>
 		</Style>
@@ -39,6 +42,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
+			     <fill>1</fill>
 				<color>ffe7ebef</color>
 			</PolyStyle>
 		</Style>
@@ -91,7 +95,7 @@
 			</LineStyle>
 			<PolyStyle>
 				<color>ffe7ebef</color>
-				<fill>0</fill>
+				<fill>1</fill>
 			</PolyStyle>
 		</Style>
 		<Style id="falseColor0">
@@ -104,12 +108,13 @@
 </table>]]></text>
 			</BalloonStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>3700C814</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>ffe7ebef</color>
-				<fill>0</fill>
+				 <colorMode>random</colorMode>
+				<fill>1</fill>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="falseColor">
@@ -160,11 +165,12 @@
 </table>]]></text>
 			</BalloonStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>3700C814</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ffe7ebef</color>
+				<color>7f0000ff</color>
+				<fill>1</fill>
 			</PolyStyle>
 		</Style>
 		<Style id="style0">
@@ -177,7 +183,7 @@
 </table>]]></text>
 			</BalloonStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>3700C814</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
@@ -238,7 +244,7 @@
 </table>]]></text>
 			</BalloonStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>3700C814</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
@@ -255,7 +261,7 @@
 </table>]]></text>
 			</BalloonStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>3700C814</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
